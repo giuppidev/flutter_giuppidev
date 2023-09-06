@@ -1,5 +1,5 @@
-# 📌 INSERT YOUR SUPABASE KEYS ON lib/config.dart TO TEST ON YOUR ENV
-
+# You need to provide your own Supabase keys to test the code.
+Check on lib/config.dart to try the app on your env
 # flutter_giuppidev
 
 A new Flutter project.
